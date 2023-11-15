@@ -1,0 +1,1 @@
+Code use only three libres: requests, folium and pyfiglet
